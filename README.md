@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rkyyhkynen
-- 👀 I’m interested in affective computing.
+- 👋 Hi, I’m @rkyyhkynen. Computer Science student at University of Turku.
+- 👀 I’m interested in future technologies.
 - 🌱 I’m currently learning affective computing.
-- 💞️ I’m looking to collaborate on life.
 
 <!---
 rkyyhkynen/rkyyhkynen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
