@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rkyyhkynen. Computer Science student at University of Turku.
+- 👋 Hi, I’m @rkyyhkynen. Doctoral Candidate at University of Turku.
 - 👀 I’m interested in future technologies.
 - 🌱 I’m currently learning affective computing.
 
