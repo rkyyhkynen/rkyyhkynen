@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rkyyhkynen. Doctoral Candidate at University of Turku.
+- 👋 Hi, I’m @rkyyhkynen. Doctoral researcher at University of Turku.
 
 <!---
 rkyyhkynen/rkyyhkynen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
